@@ -1,0 +1,156 @@
+.jumbotron{
+  background-color: #3498db;
+  margin-bottom: 0;
+  padding: 128px 0;
+  margin-top: 70px;
+
+}
+.navbar-header{
+  height: 70px;
+}
+.navbar-brand{
+  margin: auto;
+  top: 0px;
+  position: absolute;
+}
+.form-card{
+  padding: 32px;
+  background-color: #fafafa;
+  border-radius: 4px;
+}
+.btn-block{
+  margin-top: 32px;
+}
+.form-footer{
+  border-top: 1px solid #ecf0f1;
+}
+.form-group{
+  margin-bottom: 32px;
+}
+.form-title{
+  margin: -32px;
+  padding: 16px;
+  text-align: center;
+  background-color: #34495e;
+  color: #fafafa;
+  border-radius: 4px 4px 0 0;
+}
+.header-title{
+  color: #fafafa;
+}
+#second-container{
+  padding: 64px 0;
+}
+#third-container{
+  padding: 64px 0;
+}
+.navbar-fixed-top > .container{
+  padding: 0 30px;
+    background-color:#79C1E8;
+}
+
+.card {
+  display: block;
+  text-align: center;
+  margin: 32px 0;
+}
+.align-center{
+  text-align: center;
+  align-content: center;
+}
+.col-md-4{
+  margin: 8px 0;
+}
+.jumbotron p {
+  margin-bottom: 32px;
+}
+.form-footer p{
+  margin-bottom: 16px;
+  margin-top: 16px;
+  font-size: 14px;
+  color: #95a5a6;
+}
+.body p h1 h2 h3 {
+  font-family: 'Roboto', Helvetica, Arial, sans-serif !important;
+}
+
+.media{
+  padding: 16px;
+  background-color: #fff;
+  border-radius: 4px;
+  margin: 32px 0;
+}
+#footer-container{
+  padding: 64px 0;
+  background-color: #3498db;
+}
+#footer-container-two{
+  float: none !important;
+  margin: 0 auto !important;
+  padding: 32px;
+  background-color: #fafafa;
+  border-radius: 4px;
+}
+.box{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.footer-list{
+  list-style: none;
+  margin-bottom: 16px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #7f8c8d;
+}
+#fourth-container{
+  background-color: #ecf0f1;
+}
+#list-container{
+  padding: 64px 0 128px 0;
+}
+#footer-container-two h1 {
+  margin-bottom: 24px;
+  margin-top: 0;
+}
+.input-lg{
+  background-color: #ffffff;
+  border-radius: 4px;
+  border: 2px solid #bdc3c7;
+}
+
+
+#list-container > .text-center{
+  margin-bottom: 64px;
+}
+.label-success{
+  position: relative;
+  bottom: 8px;
+  font-size: 50%;
+  font-weight: 400;
+  border-radius: 4px;
+  vertical-align: super;
+
+}
+.card >  p{
+  font-weight: 400;
+  color: #95a5a6;
+  padding: 0 55px;
+  font-size: 16px;
+}
+.card > h3{
+  font-weight: 600;
+  color:#2c3e50;
+}
+.card img {
+  max-width: 200px;
+}
+.media-object{
+  max-width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.main-header p {
+  font-size: 16px;
+  font-weight: 400;
+}
